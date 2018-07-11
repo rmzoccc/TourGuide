@@ -1,0 +1,8 @@
+
+Cuentas de la BD 
+
+admin@gmail.com
+admin5@gmail.com
+admin7@gmail.com
+
+PD: Probar e ir aumentando en la bd las imagenes que sirvan
